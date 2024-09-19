@@ -1,6 +1,6 @@
 # Crop Production Prediction using Machine Learning
 
-![image](https://github.com/Simrank10/Crop-Production-Prediction/assets/105905798/1c86ceff-6a58-4864-933e-9b656306647d)
+![image](https://github.com/Lakshmi070/Crop-Production-Prediction/assets/105905798/1c86ceff-6a58-4864-933e-9b656306647d)
 
 
 ## Overview
